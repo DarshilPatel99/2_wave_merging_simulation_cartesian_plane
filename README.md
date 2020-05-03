@@ -37,8 +37,8 @@ This simulation shows that by changing the variable A,B,a,b,c,d how X and Y chan
 ### Execution Process
 - If possible use *PyCharm* but terminal(console) also works
 - Install required libraries
- - *pip install matplotlib*(matplotlib library)
- - *pip install numpy*(numpy library)
+  - *pip install matplotlib*(matplotlib library)
+  - *pip install numpy*(numpy library)
 - Put all .py files in a folder(Directory)
 - Execute *app.py* file
 - Change variable to see different simmulations
