@@ -1,6 +1,6 @@
 # 2_wave_merging_simulation_cartesian_plane
 
-Merging in cartesian plan means collision of two waves making 0° angle between propagation direction. Simply it means both wave moves on same path in same direction.
+Merging in cartesian plane means collision of two waves making 0° angle between propagation direction. Simply it means both wave moves on same path in same direction.
 
 # about
 This project is created to show basic knowledge about *animation in matplotlib* library and to show its application in physics.
@@ -14,7 +14,7 @@ Let Two waves X and Y,
  - X = Asin(at+b)
  - Y = Bsin(ct+d)
  
-This simulation shows that by changing the variable A,B,a,b,c,d how X and Y changes and if these two waves are merging in the cartesian plan means,
+This simulation shows that by changing the variable A,B,a,b,c,d how X and Y changes and if these two waves are merging in the cartesian plane means,
  - Z = X + Y 
  
  then how it makes amezing different graphs and different waves.
