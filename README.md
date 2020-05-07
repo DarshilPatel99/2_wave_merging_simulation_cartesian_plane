@@ -2,14 +2,14 @@
 
 Merging in cartesian plane means collision of two waves making 0° angle between propagation direction. Simply it means both wave moves on same path in same direction.
 
-# about
+### about
 This project is created to show basic knowledge about *animation in matplotlib* library and to show its application in physics.
 
 Here, in the *animation* folder(Directory) all version are given which helps to build this app from scratch.
 
 Hear, in *for_fun_only* folder(Directory) some crazy thing is available you can also execute that using bellow Execution process.
 
-# Basic introduction
+### Basic introduction
 Let Two waves X and Y,
  - X = Asin(at+b)
  - Y = Bsin(ct+d)
